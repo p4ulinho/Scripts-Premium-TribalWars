@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name           Auto Recrutamento ✅
 // @author         PaulinhoTutoriais
-// @version        1.5
+// @version        1.2
 // @include        **&screen=train*
 // @include        **screen=train&mode=train&village*
 // @include        **combined*
