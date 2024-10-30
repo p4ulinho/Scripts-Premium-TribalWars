@@ -5,8 +5,8 @@
 // @require        https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.0.0/crypto-js.min.js
 // @include        **am_farm*
 // @include        **combined*
-// @downloadURL    https://github.com/p4ulinho/Scripts-Premium-TribalWars/raw/refs/heads/main/UserScripts/Auto%20Farming%20Inteligente%20✅.user.js
-// @updateURL      https://github.com/p4ulinho/Scripts-Premium-TribalWars/raw/refs/heads/main/UserScripts/Auto%20Farming%20Inteligente%20✅.user.js
+// @downloadURL    https://github.com/p4ulinho/Scripts-Premium-TribalWars/raw/refs/heads/main/UserScripts/AutoFarmGod%20✅.user.js
+// @updateURL      https://github.com/p4ulinho/Scripts-Premium-TribalWars/raw/refs/heads/main/UserScripts/AutoFarmGod%20✅.user.js
 // @icon           https://www.dl.dropboxusercontent.com/scl/fi/93px3rbj21zx3863m0g40/letter-p.png?rlkey=yyoejfwogbl9rdw0p2fmft8lr&dl=0
 // ==/UserScript==
 
