@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Coleta e Desbloqueio ✅
 // @author       PaulinhoTutoriais
-// @version      2.4
+// @version      2.4.1
 // @include      **scavenge*
 // @exclude      **&screen=ranking&mode=in_a_day&type=scavenge*
 // @exclude      **scavenge_mass*
