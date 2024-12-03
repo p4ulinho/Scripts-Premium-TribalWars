@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name           Agendador de Comandos ✅ Beta
 // @author         PaulinhoTutoriais
-// @version        3.2.1
+// @version        3.3
 // @require        https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.0.0/crypto-js.min.js
 // @include        **place*
 // @include        **info_village*
