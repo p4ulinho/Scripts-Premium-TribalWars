@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name           Auto Farming Inteligente 2.0 ✅
 // @author         PaulinhoTutoriais
-// @version        4.1.2
+// @version        4.2.1
 // @require        https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.0.0/crypto-js.min.js
 // @include        **am_farm*
 // @icon           https://www.dl.dropboxusercontent.com/scl/fi/93px3rbj21zx3863m0g40/letter-p.png?rlkey=yyoejfwogbl9rdw0p2fmft8lr&dl=0
