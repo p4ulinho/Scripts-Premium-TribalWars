@@ -9,6 +9,7 @@
 // @include        **memo*
 // @include        **combined*
 // @include        **prod*
+// @include        **mode=tech*
 // @exclude        **scavenge*
 // @exclude        **place&mode=sim*
 // @exclude        **place&mode=units*
