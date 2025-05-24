@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Notificações Inteligente ✅
+// @name         Notificações Inteligente WhatsApp ✅
 // @author       PaulinhoTutoriais
 // @version      4.7.1
 // @include      **game*
