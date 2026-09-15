@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Evento Aqui estão dragões
-// @version      1.2.1
+// @version      1.2.2
 // @include      **screen=event_dragons*
 // @downloadURL  https://github.com/p4ulinho/Scripts-Premium-TribalWars/raw/main/UserScripts//EventoDragaoes.user.js
 // @updateURL    https://github.com/p4ulinho/Scripts-Premium-TribalWars/raw/main/UserScripts//EventoDragaoes.user.js
